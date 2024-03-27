@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 GM_addStyle( `
-  div.ffz-card-rich div.tw-ellipsis {
-    white-space: break-spaces !important;
+  div.ffz--chat-card {
+    max-width: calc(250px - 1.5rem)!important
   }
 ` );
