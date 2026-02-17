@@ -5,14 +5,14 @@
 // @downloadURL https://github.com/mepherion/Userscripts/raw/main/FFZ/fix_vod_rich_content.user.js
 // @match       https://www.twitch.tv/videos/*
 // @match       https://www.twitch.tv/*/video/*
-// @version     1.7.1
+// @version     1.8.0
 // @author      -
 // @description 8/15/2023, 8:03:19 AM
 // @grant GM_addStyle
 // ==/UserScript==
 
 GM_addStyle( `
-  div.ffz--chat-card {
+  div.ffz-card-rich {
     max-width: 230px !important
   }
 ` );
