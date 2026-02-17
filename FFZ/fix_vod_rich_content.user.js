@@ -7,7 +7,7 @@
 // @match       https://www.twitch.tv/*/video/*
 // @version     1.8.0
 // @author      -
-// @description 8/15/2023, 8:03:19 AM
+// @description 2/17/2026
 // @grant GM_addStyle
 // ==/UserScript==
 
